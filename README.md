@@ -1,3 +1,3 @@
 ## Hi there, I'm Nuha 👋
 
-[![Afro Orange stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/AfroOrange/github-readme-stats)
+![AfroOrange's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfroOrange&show_icons=true&theme=transparent)
