@@ -7,5 +7,5 @@
 
 ## Languages 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/AfroOrange/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfroOrange&layout=donut-vertical)](https://github.com/AfroOrange/github-readme-stats)
 
