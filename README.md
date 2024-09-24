@@ -1,11 +1,11 @@
-## Hi there, I'm Nuha 👋
+# Hi there, I'm Nuha 👋
 
 
-# Contributions
+## Contributions
 ![AfroOrange's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfroOrange&show_icons=true&theme=transparent) 
 
 
-# Languages 
+## Languages 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfroOrange&layout=compact)
 
