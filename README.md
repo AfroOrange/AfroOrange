@@ -7,7 +7,7 @@
 
 🖥️ During my free time, I enjoy expending time in the Hardware area, being up to date in new techonologies is a big trait of mine.
 
-⭐ In the near future, I'd like to work in personal projects such as Kotlin or Java developing for Android Apps certain areas such as videogames, which I'm also into. 
+⭐ In the near future, I'd like to work in personal projects such as Kotlin or Java developing for Android Apps including certain areas such as videogames, which I'm also into. 
 
 ☕ I like cats, oranges, and coffee :)
 
