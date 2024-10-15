@@ -12,7 +12,7 @@
 ☕ I like cats, oranges, and coffee :)
 
 
-🔗 Connect with me!
+### 🔗 Connect with me!
 
 
 ## Languages 
