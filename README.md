@@ -5,7 +5,7 @@
 
 🔭 I'm looking for an opportunity as an Application Developer as well as a Data Analyst, given my experience with Databases such as SQL and Firebase. Although I'm interested in these areas, I'm a passionate learner and I want to keep exploring other fields involved with programming.
 
-🖥️ During my free time, I enjoy spending time in the Hardware area, being up to date in new techonologies is a big trait of mine.
+🖥️ During my free time, I enjoy spending time in learning about new hardware, being up to date in new techonologies is a big trait of mine.
 
 ⭐ In the near future, I'd like to work in personal projects such as Kotlin or Java developing for Android Apps including certain areas such as videogames, which I'm also into. 
 
