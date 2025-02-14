@@ -1,7 +1,7 @@
 # Hi there, I'm Nuha 👋
 
 
-🌱 About me, I'm currently studying a degree in Application Development. I'm a Python enthusiast, but I've done a lot of Java Projects throughout my student years, specifically in the UI field working with JavaFX. 
+🌱 About me, I'm currently studying a degree in Application Development. I'm a Python and Java enthusiast, and I've done a lot of JavaFX Projects throughout my student years.
 
 🔭 I'm looking for an opportunity as an Application Developer. Although I'm interested in this area, I'm a passionate learner and I want to keep exploring other fields involved with programming.
 
