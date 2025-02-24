@@ -23,7 +23,7 @@
 
 ## Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,django,bootstrap,vscode,firebase,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,html,css,js,django,bootstrap,firebase,mysql,vscode)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfroOrange&layout=compact)
 
