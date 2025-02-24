@@ -11,11 +11,19 @@
 
 ☕ I like cats, oranges, and coffee :)
 
+## 🔗 Connect with me!
 
-### 🔗 Connect with me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuha-dm)
+  <a href="https://www.linkedin.com/in/jorge-herrero-santana-60ab16339" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/pudencio" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
+  </a>
+
 
 ## Languages 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,django,vscode,firebase,mysql)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfroOrange&layout=compact)
 
