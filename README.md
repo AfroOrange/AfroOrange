@@ -13,10 +13,10 @@
 
 ## 🔗 Connect with me!
 
-  <a href="https://www.linkedin.com/in/jorge-herrero-santana-60ab16339" target="_blank">
+  <a href="https://www.linkedin.com/in/nuha-dm" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://discord.com/users/pudencio" target="_blank">
+  <a href="https://discord.com/users/aesme" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
 
