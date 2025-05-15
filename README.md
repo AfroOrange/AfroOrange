@@ -1,9 +1,9 @@
 # Hi there, I'm Nuha 👋
 
 
-🌱 About me, I'm have finished my studies in Application Development. I'm a Python and Java enthusiast, and I've done a lot of JavaFX Projects throughout my student years.
+🌱 About me, I have finished my studies and I'm a Python and Java enthusiast who have done a lot of Multiplatform Projects throughout my student years.
 
-🔭 I'm looking for an opportunity as an Application Developer. Although I'm interested in this area, I'm a passionate learner and I want to keep exploring other fields involved with programming.
+🔭 I'm looking for an opportunity as an Software Developer. Although I'm interested in this area, I'm a passionate learner and I want to keep exploring other fields involved with programming.
 
 🖥️ In my free time, I enjoy spending time learning about new hardware, being up to date in new techonologies is a big trait of mine.
 
