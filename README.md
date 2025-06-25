@@ -1,7 +1,7 @@
 # Hi there, I'm Nuha 👋
 
 
-🌱 About me, I have finished my studies and I'm a Python and Java enthusiast who have done a lot of Multiplatform Projects throughout my student years.
+🌱 About me,I'm a Python and Java enthusiast who have done a lot of Multiplatform Projects throughout my student years.
 
 🔭 I'm looking for an opportunity as an Software Developer. Although I'm interested in this area, I'm a passionate learner and I want to keep exploring other fields involved with programming.
 
