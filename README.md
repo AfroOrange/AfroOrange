@@ -21,7 +21,7 @@
   </a>
 
 
-## Languages 
+## Languages & Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,html,css,js,django,bootstrap,firebase,mysql,vscode)](https://skillicons.dev)
 
